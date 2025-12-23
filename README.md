@@ -44,8 +44,8 @@ __目次__
 ---
 
 ## 🔗関連リンク
-- [botのライセンス](https://tontonpaa.github.io/license/)
-- [botのプライバシーポリシー](https://tontonpaa.github.io/privacy-policy/)
+- [botのライセンス](https://tontonpaa.github.io/threader_man/license/)
+- [botのプライバシーポリシー](https://tontonpaa.github.io/threader_man/privacy-policy/)
 - [GitHubリポジトリ](https://github.com/tontonpaa/threader_man)
 - [Discordアカウント](https://discordapp.com/users/1009046366741352548)(@shine_nihooi/ユーザー名：獅子喰らい)
 

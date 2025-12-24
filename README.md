@@ -14,10 +14,11 @@ __目次__
 ---
 
 ## 🔔お知らせと更新ログ
+- 導入リンクなどの追加・調整（2025-12/24-16:30更新）
 - スレッド作成機能をスラッシュコマンド化（2025-09/28-17:50更新）
-- DMにお知らせを送信する管理者コマンド/admin追加（2025-07/01-14:00更新）
-<br>
+
 <details><summary>過去のお知らせ一覧</summary>
+- DMにお知らせを送信する管理者コマンド/admin追加（2025-07/01-14:00更新）
 - あけおめ記録媒体をjsonファイルからfirestoreデータベースに変更（2025-06/11-0:00更新）<br>
 - 権限が無くてもスレッドとリアクションを作り続けてしまう不具合の修正（2025-05/30-19:30更新）<br>
 - "機能３"の「another」オプション２種追加（2025-04/20）<br>  
@@ -47,7 +48,10 @@ __目次__
 - [botのライセンス](https://tontonpaa.github.io/threader_man/license/)
 - [botのプライバシーポリシー](https://tontonpaa.github.io/threader_man/privacy-policy/)
 - [GitHubリポジトリ](https://github.com/tontonpaa/threader_man)
-- [Discordアカウント](https://discordapp.com/users/1009046366741352548)(@shine_nihooi/ユーザー名：獅子喰らい)
+- [Discordアカウント](https://discordapp.com/users/1009046366741352548)(@shine_nihooooooooooooooiooooo/ユーザー名：獅子喰らい)
+
+↓↓↓導入はこちらから↓↓↓  
+- [Bot「ダイス・ダイス！」のAppディレクトリ公式ページ](https://discord.com/discovery/applications/1359478477346181240)
 
 ---
 
